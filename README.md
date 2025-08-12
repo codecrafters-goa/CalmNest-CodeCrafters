@@ -5,7 +5,7 @@ Think of it as a quiet, cozy nest where your mind can rest and heal. Everything 
 
 ## 👥 Team Members
 - Nehanshu Pagi:
-- Dattaraj Gawade:
+- Dattaraj Gawade: https://github.com/dattarajgawade
 - Hayden D'Souza: https://github.com/hayden-26
 - Nash Dourado: https://github.com/nashdourado
 - Rajan Kale: https://github.com/rajankale-pixel
