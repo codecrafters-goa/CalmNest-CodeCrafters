@@ -155,9 +155,9 @@ Success Response (200 OK):
 
   {
     "id": "1",
-    "name": "Child’s Pose",
-    "description": "A relaxing pose that stretches the back and hips.",
-    "imageUrl": "https://calmnest.com/yoga/child_pose.jpg"
+    "name": "Tree Pose (Vrikshasana)",
+    "description": "A balancing pose that strengthens the legs and improves focus.",
+    "imageUrl": "https://calmnest.com/yoga/tree_pose.jpg"
   }
 
 Error Response (500 Internal Server Error):
