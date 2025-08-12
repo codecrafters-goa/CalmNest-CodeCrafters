@@ -7,7 +7,7 @@ Think of it as a quiet, cozy nest where your mind can rest and heal. Everything 
 - Nehanshu Pagi:
 - Dattaraj Gawade:
 - Hayden D'Souza:
-- Nash Dourado:
+- Nash Dourado: https://github.com/nashdourado
 - Rajan Kale: https://github.com/rajankale-pixel
 
 ## 🛠 Tech Stack
