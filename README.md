@@ -4,11 +4,11 @@ CalmNest is a friendly website that helps people feel better when they are stres
 Think of it as a quiet, cozy nest where your mind can rest and heal. Everything is in one place, so it's easy to use and helpful for anyone who wants to feel calm and happy again.
 
 ## 👥 Team Members
-- [Member 1 Name](GitHub Profile Link)
-- [Member 2 Name](GitHub Profile Link)
-- [Member 3 Name](GitHub Profile Link)
-- [Member 4 Name](GitHub Profile Link)
-- [Member 5 Name](GitHub Profile Link)
+- Nehanshu Pagi:
+- Dattaraj Gawade:
+- Hayden D'Souza:
+- Nash Dourado:
+- Rajan Kale:
 
 ## 🛠 Tech Stack
 - **Frontend:** React.js
