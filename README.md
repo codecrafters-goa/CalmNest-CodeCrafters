@@ -4,7 +4,7 @@ CalmNest is a friendly website that helps people feel better when they are stres
 Think of it as a quiet, cozy nest where your mind can rest and heal. Everything is in one place, so it's easy to use and helpful for anyone who wants to feel calm and happy again.
 
 ## 👥 Team Members
-- Nehanshu Pagi:
+- Nehanshu Pagi: https://github.com/shunehan
 - Dattaraj Gawade: https://github.com/dattarajgawade
 - Hayden D'Souza: https://github.com/hayden-26
 - Nash Dourado: https://github.com/nashdourado
