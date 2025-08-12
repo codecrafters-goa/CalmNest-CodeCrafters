@@ -8,7 +8,7 @@ Think of it as a quiet, cozy nest where your mind can rest and heal. Everything 
 - Dattaraj Gawade:
 - Hayden D'Souza:
 - Nash Dourado:
-- Rajan Kale:
+- Rajan Kale: https://github.com/rajankale-pixel
 
 ## 🛠 Tech Stack
 - **Frontend:** React.js
