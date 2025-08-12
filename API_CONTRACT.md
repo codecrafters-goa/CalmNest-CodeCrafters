@@ -190,8 +190,6 @@ HTTP Method: GET
 Endpoint Path: /api/resources
 Description: Retrieves emergency helpline numbers and resources.
 Success Response (200 OK):
-
-
   {
     "id": "1",
     "name": "Mental Health Helpline",
